@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/udemy-react-monsters/static/css/main.17696ac1.chunk.css",
+    "main.js": "/udemy-react-monsters/static/js/main.1b13ccc7.chunk.js",
+    "main.js.map": "/udemy-react-monsters/static/js/main.1b13ccc7.chunk.js.map",
+    "runtime-main.js": "/udemy-react-monsters/static/js/runtime-main.79663840.js",
+    "runtime-main.js.map": "/udemy-react-monsters/static/js/runtime-main.79663840.js.map",
+    "static/js/2.9e6a2568.chunk.js": "/udemy-react-monsters/static/js/2.9e6a2568.chunk.js",
+    "static/js/2.9e6a2568.chunk.js.map": "/udemy-react-monsters/static/js/2.9e6a2568.chunk.js.map",
+    "static/js/3.d73e4f7f.chunk.js": "/udemy-react-monsters/static/js/3.d73e4f7f.chunk.js",
+    "static/js/3.d73e4f7f.chunk.js.map": "/udemy-react-monsters/static/js/3.d73e4f7f.chunk.js.map",
+    "index.html": "/udemy-react-monsters/index.html",
+    "static/css/main.17696ac1.chunk.css.map": "/udemy-react-monsters/static/css/main.17696ac1.chunk.css.map",
+    "static/js/2.9e6a2568.chunk.js.LICENSE.txt": "/udemy-react-monsters/static/js/2.9e6a2568.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79663840.js",
+    "static/js/2.9e6a2568.chunk.js",
+    "static/css/main.17696ac1.chunk.css",
+    "static/js/main.1b13ccc7.chunk.js"
+  ]
+}
